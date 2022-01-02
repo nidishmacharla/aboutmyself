@@ -1,4 +1,4 @@
-/*to find largets number in agiven interger*/
+/*to find largets number in a given interger*/
 #include<stdio.h>
 int main()
 {
